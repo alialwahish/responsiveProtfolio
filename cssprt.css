@@ -1,0 +1,125 @@
+    *{
+        /* outline: 2px solid black; */
+    }
+    h1,h3{
+        display: inline;
+        padding: 13px;
+        
+    }
+    h3{
+        margin-left: 276px;
+    }
+    #he{
+
+        background-color: #e0a8d3;
+       
+    }
+    h1{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    #wrapper{
+        margin: 0px auto;
+        height: 950px;
+        background-color: rgb(104, 74, 104);
+             
+    }
+    #profJd{
+        width: 400px;
+        outline: 5px solid silver ;
+        display: inline;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    #h4{
+        width: 459px;
+        margin: 0px auto;
+        background-color: rgb(165, 158, 158);
+        padding: 10px;
+        color: white;
+        
+    }
+
+    .allTxt{
+        margin: 0px auto;
+        width: 469px;
+       padding: 5px;
+       background-color:white;
+       height: 224px;
+
+    }
+    
+    #tsk{
+        margin-top: 26px;
+        
+         margin-left: 30px;
+        width: 400px;
+        display: inline-block;
+        vertical-align: top;
+
+    }
+
+    
+    .laMode{
+        width: 250px;
+        margin-left: 30px;
+        background-color: rgb(165, 158, 158);
+        padding: 10px;
+        color: white;
+        margin-bottom: 0px;
+       
+    }
+    .imgLaMode{
+        width: 270px;
+        margin-left: 30px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .txtLaMode{
+        width: 270px;
+        margin-left: 30px; 
+        margin-top: -4px;
+        margin-bottom: 0px;
+        background-color: white;
+    }
+   
+    .linksAndBtn{
+        width: 270px;
+        height: 187px;
+        margin-left: 30px;
+        background-color: white;
+    }
+    .picLink{
+        margin-top: 21px;
+        margin-left: 9px;
+        text-decoration-style: none;
+       
+       width: 40px;
+    }
+    a{
+        text-decoration: none;
+        
+    }
+    button{
+        background-color: green;
+        border-radius: 7px;
+        display: block;
+        margin-left: 101px;
+        margin-top: 17px;
+    }
+
+    .triTx{
+        display: inline-block;
+    }
+    
+   .tec{
+    width: 250px;
+    margin-left: 30px;
+    background-color: rgb(165, 158, 158);
+    padding: 10px;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 0;
+   }
+   
